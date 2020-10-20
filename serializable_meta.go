@@ -8,9 +8,9 @@ import (
 	"reflect"
 
 	"github.com/qor/admin"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	"github.com/qor/qor/utils"
+	"github.com/qorx/qor"
+	"github.com/qorx/qor/resource"
+	"github.com/qorx/qor/utils"
 )
 
 // SerializableMetaInterface is a interface defined methods need for a serializable model
